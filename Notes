@@ -1,0 +1,12 @@
+Alerts:
+  1.WebBased:
+  They are easy to handle, we handle them in exact way as we do with regular webelements.
+  2.Windows based:
+  We can not handle them using selenium
+  3.JavaScript based Alerts:
+  Are dealt with using Alerts class in selenium
+  we Can:
+  accept()
+  dismiss()
+  sendtext()
+  gettext()
